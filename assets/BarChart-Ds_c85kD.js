@@ -1,1 +1,0 @@
-import{dt as e,ht as t}from"./card-DSjT3HFQ.js";import{M as n,o as r}from"./chart-wY0ku3nf.js";var i=t(e()),a=[`axis`,`item`],o=(0,i.forwardRef)((e,t)=>i.createElement(r,{chartName:`BarChart`,defaultTooltipEventType:`axis`,validateTooltipEventTypes:a,tooltipPayloadSearcher:n,categoricalChartProps:e,ref:t}));export{o as t};

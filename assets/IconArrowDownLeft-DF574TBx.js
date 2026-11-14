@@ -1,0 +1,1 @@
+import{W as e}from"./format-BBOdrLMS.js";var t=e(`outline`,`arrow-down-left`,`ArrowDownLeft`,[[`path`,{d:`M17 7l-10 10`,key:`svg-0`}],[`path`,{d:`M16 17l-9 0l0 -9`,key:`svg-1`}]]);export{t};

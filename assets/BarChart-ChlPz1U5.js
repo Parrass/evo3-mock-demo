@@ -1,0 +1,1 @@
+import{L as e,V as t}from"./lancamentos-DOkEpXTh.js";import{M as n,o as r}from"./chart-pun96lZ2.js";var i=t(e()),a=[`axis`,`item`],o=(0,i.forwardRef)((e,t)=>i.createElement(r,{chartName:`BarChart`,defaultTooltipEventType:`axis`,validateTooltipEventTypes:a,tooltipPayloadSearcher:n,categoricalChartProps:e,ref:t}));export{o as t};

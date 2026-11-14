@@ -1,0 +1,1 @@
+import{Y as e}from"./card-DSjT3HFQ.js";var t=e(`outline`,`chevron-right`,`ChevronRight`,[[`path`,{d:`M9 6l6 6l-6 6`,key:`svg-0`}]]);export{t};
